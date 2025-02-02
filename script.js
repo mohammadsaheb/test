@@ -11,3 +11,6 @@ console.log(num4-num3);
 let num5= 45;
 let num6= 5;
 console.log(num4+num3);
+
+let h =2 ;
+
